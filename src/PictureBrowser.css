@@ -1,0 +1,13 @@
+.picture {
+  height: auto;
+  max-width: 70%;
+}
+
+.picture-container {
+  padding: 1rem 2rem 0.5rem 2rem;
+}
+
+.browser-container {
+  width: 100%;
+}
+
